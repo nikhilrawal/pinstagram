@@ -13,7 +13,7 @@ This project is an Instagram-like social media application built using Flutter. 
 
 ## Screenshots
 
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;">
   <img src="assets/01 (2).jpg" alt="Screenshot 1" width="200" height="500">
   <img src="assets/01 (1).jpg" alt="Screenshot 2" width="200" height="500">
   <img src="assets/01 (3).jpg" alt="Screenshot 2" width="200" height="500">
@@ -26,8 +26,7 @@ This project is an Instagram-like social media application built using Flutter. 
 ## Video Demonstration
 
 Watch the video demonstration of the app to see it in action:
-
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1049094328?h=7d1b7beddd&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="instavideo"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+[Pinstagram Video Demonstration](https://vimeo.com/1049094328/7d1b7beddd)
 
 ## Workflow
 
