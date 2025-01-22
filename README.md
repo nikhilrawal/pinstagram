@@ -14,13 +14,13 @@ This project is an Instagram-like social media application built using Flutter. 
 ## Screenshots
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;">
-  <img src="assets/01 (2).jpg" alt="Screenshot 1" width="200" height="500">
-  <img src="assets/01 (1).jpg" alt="Screenshot 2" width="200" height="500">
-  <img src="assets/01 (3).jpg" alt="Screenshot 2" width="200" height="500">
-  <img src="assets/01 (4).jpg" alt="Screenshot 2" width="200" height="500">
-  <img src="assets/01 (5).jpg" alt="Screenshot 2" width="200" height="500">
-  <img src="assets/01 (6).jpg" alt="Screenshot 2" width="200" height="500">
-  <img src="assets/01 (7).jpg" alt="Screenshot 2" width="200" height="500">
+  <img src="assets/01 (2).jpg" alt="Screenshot 1" width="240" height="500">
+  <img src="assets/01 (1).jpg" alt="Screenshot 2" width="240" height="500">
+  <img src="assets/01 (3).jpg" alt="Screenshot 2" width="240" height="500">
+  <img src="assets/01 (4).jpg" alt="Screenshot 2" width="240" height="500">
+  <img src="assets/01 (5).jpg" alt="Screenshot 2" width="240" height="500">
+  <img src="assets/01 (6).jpg" alt="Screenshot 2" width="240" height="500">
+  <img src="assets/01 (7).jpg" alt="Screenshot 2" width="240" height="500">
 </div>
 
 ## Video Demonstration
